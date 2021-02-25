@@ -30,7 +30,7 @@ let operations = ['/', '*', '-', '+'];
 let calculations = ['='];
 ```
 
-[View the result](https://jsfiddle.net/raman_shastapalau/hpvkos30/7/)
+[Source code](https://github.com/grhgrmgrhrm/calculator-on-JS) | [View the result](https://jsfiddle.net/raman_shastapalau/hpvkos30/7/)
 
 ## Work experience
 
