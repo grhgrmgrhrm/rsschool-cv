@@ -5,6 +5,7 @@
 | Call me +375297152299 | <a href="https://www.linkedin.com/in/raman-shastapalau/">LinkedIn</a>
 
 
+
 ## At the present time
 
 I continue to learn HTML, JavaScript, React and TypeScript
@@ -57,7 +58,7 @@ __Training on the educational platform "Geekbrains" as a Frontend developer__
 
 `-2018`
 
-__Self-education_
+__Self-education__
 
 
 ## Level of English
